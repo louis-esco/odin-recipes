@@ -6,3 +6,13 @@ body {
     background-color: lightblue;
     color: brown;
 }
+
+.ingredients {
+    font-weight: 700;
+    color: lightsalmon;
+}
+
+.steps {
+    background-color: lightcoral;
+    color: lightgreen;
+}
